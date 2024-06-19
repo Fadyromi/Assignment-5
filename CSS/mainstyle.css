@@ -1,0 +1,174 @@
+/* =============== Golabal =============== */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header {
+    height: 100vh;
+
+}
+
+/* =============== Header 1 =============== */
+
+.header1 {
+    background-color: black;
+
+}
+
+
+.corla {
+    color: lightcoral;
+}
+
+.navbar {
+    width: 80%;
+    height: 80px;
+    background-color: black;
+    top: 0;
+}
+
+
+
+.navbar-nav {
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 600;
+
+
+}
+
+.nav-link.fot {
+    border: 2px dotted lightcoral;
+    color: lightcoral;
+    border-radius: 20%;
+
+}
+
+
+
+.nav-link.not {
+
+    color: white;
+    transition: 0.1s;
+}
+
+.nav-link.not:hover {
+
+    border: 2px dotted lightcoral;
+    color: lightcoral;
+    border-radius: 20%;
+}
+
+
+
+.nav-logo {
+    width: 20%;
+    height: 20%;
+
+}
+
+small {
+    font-size: 15px;
+    top: 35px;
+    right: 120px;
+
+}
+
+/* =============== Header 2 =============== */
+.header2 {
+    background-image: url(../img/aerial-city-photography-generated-ai-image_511042-1436.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.input-group {
+    top: 70px;
+}
+
+#button-addon {
+    width: 15%;
+    border-radius: 30%;
+}
+
+.forcastcards {
+    top: 120px;
+
+}
+
+.forcastshow {
+    padding: 2px;
+}
+
+.forcastHeader {
+    background-color: rgba(41, 25, 27, 0.7);
+    padding-inline: 15px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.forcastcontanet {
+    background-color: rgba(136, 88, 58, 0.4);
+
+}
+
+.forcastcontanet p {
+    font-size: 20px;
+}
+
+.forcastcontanet .num {
+    height: 200px;
+    font-size: 90px;
+}
+
+.forcastcontanet .num sub {
+    font-size: 30px;
+    position: relative;
+    bottom: 30px;
+}
+
+.forcastcontanet .custom .condition {
+    margin-bottom: 5px;
+}
+
+.forcastcontanet .custom {
+    font-size: 17px;
+    background-color: rgba(41, 25, 27, 0.7);
+    padding-inline: 2rem;
+}
+
+/* =============== Footer =============== */
+
+
+footer .container {
+    
+    height: 30%;
+}
+
+
+
+.FooterInput {
+    width: 60%;
+    height: 30px;
+    top: -15px;
+}
+
+.FooterInput .but2 {
+    width: 15%;
+    border-radius: 30%;
+}
+
+.footer-icon {
+    font-size: 30px;
+    top: -20px;
+    position: relative;
+}
+
+
+
